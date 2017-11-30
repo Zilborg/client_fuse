@@ -1,3 +1,5 @@
+**Full information you can find [here](https://hackmd.io/KYdgrGAMkMYwtCAnEgzPALAQwGwfkjAByTwCMkSWSARjqsDCDkA=?view).**
+
 ## FUSE client
 The working of FUSE client was checked with Nautilus (version 1:3.20.4-0ubuntu2) on ubuntu 17.04.
 
