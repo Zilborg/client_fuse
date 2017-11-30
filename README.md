@@ -1,7 +1,7 @@
 ## FUSE client
 The working of FUSE client was checked with Nautilus (version 1:3.20.4-0ubuntu2) on ubuntu 17.04.
 
-By default you have two files:`fuse.py` and `start_fuse.py`. You should start from `start_fuse.py`. Also by default, the root directory is created in current directory(where this two file locates). The mountpoin creates the directory in `/tmp/fuse/`. Thus the cache files, that were downloaded during the session are cleared after restarting the computer. You can avoid this by changing the `ROOT = "/tmp/fuse"` in the `start_fuse.py`.
+By default you have two files:`fuse.py` and `start_fuse.py`. You should start from `start_fuse.py`. Also by default, the root directory is created in current directory(where this two file locates). The mountpoin creates the directory in current directory as `DevilStore`. Thus the cache files, that were downloaded during the session are cleared after restarting the computer. You can avoid this by changing the `ROOT = "/tmp/fuse"` in the `start_fuse.py`.
 ### Process
 
 #### In the beginning:
