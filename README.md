@@ -33,3 +33,8 @@ Where `DEBUG` shows information by working Nautilus and `LOGS` creates `logs.txt
 
 ### Exit
 For exiting you need use double interupts. 2 x `Ctrl + C` (^C) 
+
+---
+Other sources:
+* Name Server: https://github.com/HumanoidPhantom/ns
+* Storage: https://github.com/Kazakov-A/Distributed-storage
